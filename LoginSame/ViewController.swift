@@ -17,5 +17,9 @@ class ViewController: UIViewController {
     func login() {
         print("Login")
     }
+    
+    func loginForAnotherBranch() {
+        print("Login for another branch")
+    }
 }
 
